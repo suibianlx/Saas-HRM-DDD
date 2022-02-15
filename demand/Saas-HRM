@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T08:57:58.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ozD1eRIvaGH0Sk3PRFsJ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T09:00:28.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="6a292f73_rVYB4g6FK8d" version="16.5.6" type="github">
   <diagram id="mJvAzv6nPdGPnuUdu3XW" name="Page-1">
     <mxGraphModel dx="460" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,17 +67,41 @@
         <mxCell id="tsRN2pLt--k2sBJC9_Cy-25" value="人事专员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="890" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsRN2pLt--k2sBJC9_Cy-27" target="tsRN2pLt--k2sBJC9_Cy-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tsRN2pLt--k2sBJC9_Cy-27" value="工资管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsRN2pLt--k2sBJC9_Cy-28" target="tsRN2pLt--k2sBJC9_Cy-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tsRN2pLt--k2sBJC9_Cy-28" value="绩效管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="780" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsRN2pLt--k2sBJC9_Cy-29" target="tsRN2pLt--k2sBJC9_Cy-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tsRN2pLt--k2sBJC9_Cy-29" value="招聘管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="890" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsRN2pLt--k2sBJC9_Cy-30" target="tsRN2pLt--k2sBJC9_Cy-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tsRN2pLt--k2sBJC9_Cy-30" value="合同管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="990" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-36" value="入职合同" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="430" y="1005" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-37" value="招聘报表" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="430" y="920" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-38" value="绩效" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="430" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-39" value="工资明细" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="440" y="685" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
