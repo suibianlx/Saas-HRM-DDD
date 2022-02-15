@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T09:00:28.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="6a292f73_rVYB4g6FK8d" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T09:14:47.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="36t4L3TsbFzagJhi728c" version="16.5.6" type="github">
   <diagram id="mJvAzv6nPdGPnuUdu3XW" name="Page-1">
-    <mxGraphModel dx="460" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1287" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,6 +102,18 @@
         </mxCell>
         <mxCell id="tsRN2pLt--k2sBJC9_Cy-39" value="工资明细" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="440" y="685" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsRN2pLt--k2sBJC9_Cy-44" target="tsRN2pLt--k2sBJC9_Cy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tsRN2pLt--k2sBJC9_Cy-44" target="tsRN2pLt--k2sBJC9_Cy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tsRN2pLt--k2sBJC9_Cy-44" target="tsRN2pLt--k2sBJC9_Cy-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsRN2pLt--k2sBJC9_Cy-44" value="人事经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="790" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
